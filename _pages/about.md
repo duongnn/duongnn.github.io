@@ -12,7 +12,7 @@ I am an Assistant Professor in the Department of Electrical Engineering and Comp
 My research interests include Distributed Systems/Computing, Fault Tolerance, Runtime Monitoring, Self-Stabilization, and Formal Methods.
 
 
-### Opening
+### PhD positions are available
 
 Two funded PhD positions are available in my research group in the Department of Electrical Engineering and Computer Science at the University of Wyoming. The positions are anticipated to start in January 2023 or August 2023. 
 
@@ -27,3 +27,11 @@ Preferred Qualifications:
 *       Programming skills and mathematical maturity.
 
 Strong candidates who have Bachelor's degrees are also encouraged to apply and will be considered for a Master's student position.
+
+### About the department, college and UW
+
+The College of Engineering and Physical Sciences has over 90 faculty members and offers eight ABET-accredited degree programs. The EECS department has over 20 faculty members and offers degrees in Electrical Engineering, Computer Engineering, and Computer Science. There are extensive research collaboration opportunities within the department, Center for Blockchain and Digital Innovation, Wyoming’s Supercomputer, across campus, and with the new School of Computing.
+
+The University of Wyoming is a thriving, land-grant research university with over 100 million dollars annually in research funding. The state of Wyoming continues to invest in its university, helping to make it a leader in academics, research and outreach. The university has state-of-the-art facilities in many areas and the community provides the advantages of a major university. UW draws over 13,000 students from all 50 states and more than 90 countries. Additional information is available at http://www.uwyo.edu/eecs, http://www.uwyo.edu/ceps and http://www.laramie.org.
+
+UW is located in Laramie, a town of 30,000 in the heart of the Rocky Mountain West and 130 miles northwest of Denver. Located in a high mountain valley near the Colorado border, Laramie offers both outstanding recreational opportunities and close proximity to Colorado’s Front Range, a bustling group of metropolitan cities including Denver, Boulder, and Fort Collins. This beautiful mountain landscape offers outdoor enjoyment in all seasons, with over 300 days of sunshine annually. For more information about the region, please visit http://visitlaramie.org/
