@@ -26,7 +26,9 @@ Preferred Qualifications:
 *       Background in computer science or computer engineering.
 *       Programming skills and mathematical maturity.
 
+<!---
 Strong candidates who have Bachelor's degrees are also encouraged to apply and will be considered for a Master's student position.
+-->
 
 ### About the department, college and UW
 
