@@ -14,7 +14,7 @@ My research interests include Distributed Systems/Computing (including cloud com
 
 ### PhD positions in Computer Science are available
 
-I am looking for self-motivated candidates to join my research group. The positions are anticipated to start in August 2023. If interested, please send your full CV and transcripts to duong.nguyen[at]uwyo[dot]edu.
+I am looking for self-motivated candidates to join my research group. The positions are anticipated to start in August 2023 or January 2024. If interested, please send your full CV and transcripts to duong.nguyen[at]uwyo[dot]edu.
 
 International applicants must have TOEFL/IELTS scores meeting the [department requirement](https://www.uwyo.edu/EECS/graduate/admissions-info.html). GRE score is optional but highly recommended. 
 
