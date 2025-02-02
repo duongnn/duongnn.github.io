@@ -18,7 +18,7 @@ I am looking for self-motivated candidates to join my research group. The positi
 
 International applicants must have TOEFL/IELTS scores meeting the [department requirement](https://www.uwyo.edu/EECS/graduate/admissions-info.html). GRE score is optional but highly recommended. 
 
-More information and the online application can be found at [http://www.uwyo.edu/admissions/apply.html](http://www.uwyo.edu/admissions/apply.html).
+More information and the online application can be found at [http://www.uwyo.edu/admissions/apply.html](http://www.uwyo.edu/admissions/apply.html). The application deadline is March 15.
 
 Preferred Qualifications:
 *       Background in computer science or computer engineering.
